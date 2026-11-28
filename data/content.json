@@ -1,0 +1,56 @@
+{
+  "_readme": "Editable site copy. Edit and push (GitHub Pages rebuilds automatically). GitHub numbers, repos and activity come from the GitHub API automatically — do not put them here.",
+  "hero": {
+    "badge": "SELF-TAUGHT DEVELOPER // OPEN SOURCE",
+    "headline": "Learning in public,",
+    "headline_accent": "one commit at a time",
+    "headline_tail": ".",
+    "intro": "Hi, I'm Konstrukturmx. I started coding recently and got hooked fast. I build a bit of everything: native tools in Rust, web apps, 3D in the browser, backend APIs. A jack of all trades, master of none… yet."
+  },
+  "about": {
+    "title": "About Konstrukturmx",
+    "subtitle": "A self-taught developer who learns by building and shares everything in the open.",
+    "philosophy_title": "Why I build",
+    "philosophy": [
+      "I started coding recently, and it went from curiosity to obsession faster than I expected. I learn by shipping: pick a real problem, build something, break it, fix it, and publish it. Every project teaches me something the tutorials skipped.",
+      "I'm a generalist at heart. Rust when I want fast native tools, TypeScript and React for the web, PHP and SQL on the server, three.js when a page deserves a third dimension. I'd rather understand how the whole stack fits together than know one corner of it perfectly — at least for now.",
+      "Open source is where I learn the most. I read other people's code, open issues, and put my own work out there for anyone to use, fork, or improve. If something I built helps you, or you spot a way to make it better, open an issue or a pull request — I'd love to hear from you."
+    ],
+    "quote": "Jack of all trades, master of none, but oftentimes better than a master of one.",
+    "timeline": [
+      {
+        "period": "NOV 2026 — PRESENT",
+        "role": "OPEN SOURCE",
+        "title": "Started building in public",
+        "description": "Joined GitHub and began publishing what I build, from first experiments to finished tools, so anyone can follow along, learn from my mistakes, or help.",
+        "tags": ["Git", "GitHub", "Open Source"]
+      },
+      {
+        "period": "NOV 2026",
+        "role": "RUST",
+        "title": "WinBlast-Optimizer",
+        "description": "A Windows system optimizer and debloater written in Rust. My first project with versioned releases, and my crash course in systems programming.",
+        "tags": ["Rust", "Windows"]
+      },
+      {
+        "period": "NOV 2026",
+        "role": "WEB",
+        "title": "This website",
+        "description": "A live dashboard of everything I ship: React, three.js and GSAP on the front end, a PHP API and GitHub Actions behind it, updated automatically from my GitHub.",
+        "tags": ["React", "Three.js", "PHP", "GitHub Actions"]
+      }
+    ],
+    "stack": ["Rust", "TypeScript", "React", "Three.js", "Tailwind CSS", "PHP", "MySQL", "Docker", "Git", "GitHub Actions"]
+  },
+  "contact": {
+    "title": "Contact & Collab",
+    "subtitle": "Questions, collaboration ideas or feedback on a project? Send a message and I'll get back to you.",
+    "availability_title": "AVAILABILITY",
+    "availability": "Open to open-source collaboration, feedback on my projects and small builds. Always happy to learn from others.",
+    "timezone": "",
+    "email": ""
+  },
+  "footer": {
+    "tagline": "LEARNING IN PUBLIC // LIVE GITHUB TELEMETRY"
+  }
+}
